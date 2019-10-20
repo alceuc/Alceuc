@@ -75,9 +75,9 @@ vertice30,vertice29,rua,79.5,red,1
 vertice30,vertice31,rua,110.56,red,1
 vertice29,vertice25,rua,114.92,red,1
 vertice25,vertice23,rua,80.1,red,1
-vertice55,vertice58,rua,189.2,red,1
+vertice55,vertice57,vertice58,rua,189.2,red,1
 vertice55,vertice56,rua,117.8,red,1
-vertice55,vertice59,rua,152.0,red,1
+vertice55,vertice57,vertice59,rua,152.0,red,1
 vertice56,vertice60,rua,67.3,red,1
 vertice60,vertice61,rua,65.0,red,1
 vertice60,vertice63,rua,61.7,red,1
@@ -91,3 +91,4 @@ vertice22,vertice21,rua,86.00,red,1
 vertice21,vertice20,rua,81.30,red,1
 vertice33,vertice38,rua,80.00,red,1
 vertice54,vertice56,rua,171.66,red,1
+vertice60,vertice61,rua,vertice62,103.1,1
